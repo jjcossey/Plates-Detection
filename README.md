@@ -48,6 +48,6 @@ Augmented images for better generalization.
 
 Training using YOLOv5 with fine-tuned hyperparameters.
 
-
+Be sure to change the file paths in all code files to match your setup and run the PLate Numbers.ipynb on jupyter notebook executing all cells. Then open a terminal in your project directory and run streamlit run PLate_Recognition.py to open the streamlit app that runs the model.
 
 Feel free to contribute by improving the dataset, optimizing the model, or integrating additional features. Open a pull request or reach out via GitHub Issues.
